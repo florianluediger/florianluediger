@@ -14,7 +14,8 @@
 
 ### :octocat: Fun private projects
 
-* [Spotify Smart Playlists](https://github.com/florianluediger/SpotifySmartPlaylists) | A playlist generation tool similar to iTunes Smart Playlists for Spotify
+* [Playlist Cutter](https://github.com/florianluediger/playlist-cutter) | A playlist generation tool similar to iTunes Smart Playlists for Spotify - Web version
+* [Spotify Smart Playlists](https://github.com/florianluediger/SpotifySmartPlaylists) | The previous Python based implementation of the Playlist Cutter 
 * [LED Matrix Board](https://github.com/florianluediger/LedMatrixBoard) | Board layout for a circuit containing two 8x8 LED matrices controlled by some MAX7219 drivers and an ESP8266 microcontroller.
 * [WiFi Display](https://github.com/florianluediger/WiFiDisplay) | Software for the ESP8266 powering my LED matrices, providing many tools for displaying various data on the display
 
