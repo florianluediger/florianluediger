@@ -28,3 +28,9 @@
 * Spring Data Examples | [Add example for Spring Data JDBC usage with jOOQ](https://github.com/spring-projects/spring-data-examples/pull/385)
 * Spring Data Commons | [Fix minor typos in the developer guide wiki entry](https://jira.spring.io/browse/DATACMNS-1329)
 * Spring Data Rest | [Fix small documentation issues](https://github.com/spring-projects/spring-data-rest/pull/295)
+
+### :cup_with_straw: Other projects I have been fiddeling with
+
+* [JUnit Insights](https://github.com/adessoSE/junit-insights) | JUnit 5 extension for understanding the time spent on test exceution.
+* [Instantshare](https://github.com/instantshare/instantshare) | Tool for quickly uploading media like screenshots, videos or files and sharing them online.
+* Windows 10 Toast Notifications | [Replace pywin32 requirement with pypiwin32](https://github.com/jithurjacob/Windows-10-Toast-Notifications/pull/12)
