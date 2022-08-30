@@ -3,6 +3,7 @@
 ### 📝 Interesting blog posts (more to come soon hopefully)
 
 * [Identify Bottlenecks in your Spring tests with JUnit Insights](https://www.adesso.de/de/news/blog/identify-bottlenecks-in-your-spring-tests-with-junit-insights.jsp)
+* [Toit will bring your IoT projects up to speed](https://blog.codecentric.de/en/2022/08/toit-will-bring-your-iot-projects-up-to-speed/)
 
 ### 👓 Some cool research projects
 
