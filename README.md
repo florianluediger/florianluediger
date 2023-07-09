@@ -33,6 +33,7 @@
 
 ### :cup_with_straw: Other projects I have been fiddeling with
 
+* Azure Functions Kafka Extension | [Add Support for external Schema Registry](https://github.com/Azure/azure-functions-kafka-extension/pull/411)
 * [JUnit Insights](https://github.com/adessoSE/junit-insights) | JUnit 5 extension for understanding the time spent on test exceution.
 * [Instantshare](https://github.com/instantshare/instantshare) | Tool for quickly uploading media like screenshots, videos or files and sharing them online.
 * Windows 10 Toast Notifications | [Replace pywin32 requirement with pypiwin32](https://github.com/jithurjacob/Windows-10-Toast-Notifications/pull/12)
