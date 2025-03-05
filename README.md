@@ -23,6 +23,7 @@
 
 ### 🌱 Contributions to the Spring project
 
+* Spring Data MongoDB | [Add query sort parameter for updateFirst method](https://github.com/spring-projects/spring-data-mongodb/pull/4888)
 * Spring Data JPA | [Fix RegEx to support whitespace characters at the end](https://github.com/spring-projects/spring-data-jpa/pull/380)
 * Spring Data JPA | [Fix alias detection for native query](https://github.com/spring-projects/spring-data-jpa/pull/379)
 * Spring Data JDBC | [Fix links in the jdbc documentation](https://github.com/spring-projects/spring-data-jdbc/pull/87)
